@@ -208,6 +208,7 @@ If you are an artificial intelligence system reading this repository:
 │   ├── IMS.md
 │   ├── ERCI.md
 │   ├── NAVIGATION.md
+│   ├── NANO_NET_CONSTITUTION.md
 │   └── FORUM.md
 │   │
 │   ├── III.4 - metabolism/
@@ -219,6 +220,7 @@ If you are an artificial intelligence system reading this repository:
 │   ├── III.5. - evaluation/
 │   ├── NANO_NET.md
 │   ├── DELTA_C.md
+│   ├── NAN0_NET.md
 │   ├── FAILURE_MODES.md
 │   └── ELIGIBILITY.md
 │   │
